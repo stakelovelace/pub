@@ -39,10 +39,11 @@
       },
       "https://spovotes.com/votes/reduce-min-fee/": {
         "vote": "No",
-        "comment": "Prefer just min variable fee"
+        "comment": "Prefer just min variable fee."
       },
       "https://spovotes.com/votes/remove-min-fee/": {
-        "vote": "Yes"
+        "vote": "No",
+	"comment": "Infrastructure isn't free on average."
       }
-	  }
+    }
 }
