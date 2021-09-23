@@ -1,0 +1,7 @@
+{
+  "name": "RETIRING IN EPOCH 309, (re)delegate to AAA",
+  "ticker": "AAA2",
+  "description": "RETIRING IN EPOCH 309. Existing and new delegators, please (re)delegate to AAA.",
+  "homepage": "https://stakelovelace.io/aaa/",
+  "extended": "https://raw.githubusercontent.com/stakelovelace/pub/main/aaa2_extended.json"
+}
